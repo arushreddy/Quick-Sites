@@ -29,7 +29,6 @@ It provides quick access to popular websites like e-commerce platforms, social m
 ## 🌍 Live Website
 👉 Visit the live website here:  
 https://arushreddy.github.io/Quick-Sites/
-_(Link works after GitHub Pages is enabled)_
 
 ---
 
